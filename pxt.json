@@ -1,5 +1,6 @@
 {
     "name": "Bytee v4.2",
+    "version": "1.0.0",
     "description": "",
     "dependencies": {
         "core": "*",
